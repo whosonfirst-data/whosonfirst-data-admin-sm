@@ -58,7 +58,7 @@
         "wk:page":"Ventoso"
     },
     "wof:country":"SM",
-    "wof:geomhash":"10ad3c188dc85068c34a38ca690e1ffa",
+    "wof:geomhash":"0591470825fb71d30eed0bc78da9c3d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     12.44047,
     43.95464000000001
 ],
-  "geometry": {"coordinates":[12.44047,43.95464000000001],"type":"Point"}
+  "geometry": {"coordinates":[12.44047,43.95464],"type":"Point"}
 }

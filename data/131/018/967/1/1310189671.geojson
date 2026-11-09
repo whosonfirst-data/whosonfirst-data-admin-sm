@@ -117,7 +117,7 @@
         "wk:page":"Dogana"
     },
     "wof:country":"SM",
-    "wof:geomhash":"590946dab7dc86cf0e408d902c698837",
+    "wof:geomhash":"fd08c6d9fa09be2042e2472ac1c1219f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,5 +142,5 @@
     12.49051,
     43.98034000000001
 ],
-  "geometry": {"coordinates":[12.49051,43.98034000000001],"type":"Point"}
+  "geometry": {"coordinates":[12.49051,43.98034],"type":"Point"}
 }
